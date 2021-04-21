@@ -48,7 +48,7 @@ function setup() {
 function draw() {
   
   strokeWeight(5);
-  stroke("yellow")
+  stroke("white")
 
   background("black");
  
